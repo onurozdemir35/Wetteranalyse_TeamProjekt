@@ -1,2 +1,2 @@
 # Wetteranalyse_TeamProjekt
-Das ist ein Datenanalyseprojekt
+Das ist ein Datenanalyseprojekt.
